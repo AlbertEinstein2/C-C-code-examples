@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697470609 source:c:\users\life\onedrive\masaüstü\c-c++ personal studying\codes written by me\chapter 4\hypotenuse calculations\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

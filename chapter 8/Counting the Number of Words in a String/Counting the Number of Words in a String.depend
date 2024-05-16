@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1701545418 source:c:\users\life\onedrive\masaüstü\c-c++ personal studying\codes written by me\chapter 8\counting the number of words in a string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

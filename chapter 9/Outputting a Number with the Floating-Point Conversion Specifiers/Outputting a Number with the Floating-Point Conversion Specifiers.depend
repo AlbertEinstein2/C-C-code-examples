@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702232641 source:c:\users\life\onedrive\masaüstü\c-c++ personal studying\codes written by me\chapter 9\outputting a number with the floating-point conversion specifiers\main.c
+	<stdio.h>
+	<stdlib.h>
+

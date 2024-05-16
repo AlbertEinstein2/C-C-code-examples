@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1701547116 source:c:\users\life\onedrive\masaüstü\c-c++ personal studying\codes written by me\chapter 8\strings starting with -b-\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

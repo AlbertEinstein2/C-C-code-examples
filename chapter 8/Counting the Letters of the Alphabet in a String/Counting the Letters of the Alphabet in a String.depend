@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1701543139 source:c:\users\life\onedrive\masaüstü\c-c++ personal studying\codes written by me\chapter 8\counting the letters of the alphabet in a string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
